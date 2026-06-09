@@ -42,3 +42,5 @@ Author
 Arpit Farkade
 Aspiring Data Analyst# Sales-Analysis-Dashboard
 Interactive Sales Analysis Dashboard created using Microsoft Excel.
+<img width="1698" height="647" alt="Dashboard Screenshort 1 png" src="https://github.com/user-attachments/assets/64b51f42-b818-4862-818e-726fb7e8056a" />
+
